@@ -12,4 +12,5 @@ run mainall.m to generate the results for the parameters estimation, VaR calcula
 
 Other requirements
 The spatial econometrics toolbox is necessary and can be downloaded from https://www.spatial-econometrics.com/ 
+Johnson curve Matlab toolbox written by Dr. David L. Jones is also necessary and can be download from https://ww2.mathworks.cn/matlabcentral/fileexchange/46123-johnson-curve-toolbox
 
